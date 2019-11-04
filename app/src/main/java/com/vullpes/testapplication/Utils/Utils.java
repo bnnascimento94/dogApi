@@ -1,4 +1,4 @@
-package com.vullpes.testapplication;
+package com.vullpes.testapplication.Utils;
 
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;

@@ -9,7 +9,6 @@ import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.vullpes.testapplication.R;
-import com.vullpes.testapplication.Utils;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package com.vullpes.testapplication;
+package com.vullpes.testapplication.apiConnection;
 
 import java.io.BufferedReader;
 import java.io.IOException;

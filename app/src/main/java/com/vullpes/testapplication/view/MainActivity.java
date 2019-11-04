@@ -10,9 +10,9 @@ import androidx.appcompat.widget.Toolbar;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.vullpes.testapplication.HttpConection;
+import com.vullpes.testapplication.apiConnection.HttpConection;
 import com.vullpes.testapplication.R;
-import com.vullpes.testapplication.RacaParcer;
+import com.vullpes.testapplication.parsers.RacaParcer;
 
 import java.util.List;
 

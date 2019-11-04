@@ -14,8 +14,8 @@ import androidx.appcompat.widget.Toolbar;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.vullpes.testapplication.FotosParcer;
-import com.vullpes.testapplication.HttpConection;
+import com.vullpes.testapplication.parsers.FotosParcer;
+import com.vullpes.testapplication.apiConnection.HttpConection;
 import com.vullpes.testapplication.R;
 
 import java.util.ArrayList;

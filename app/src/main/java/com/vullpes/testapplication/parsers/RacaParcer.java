@@ -1,4 +1,4 @@
-package com.vullpes.testapplication;
+package com.vullpes.testapplication.parsers;
 
 import org.json.JSONArray;
 import org.json.JSONException;
