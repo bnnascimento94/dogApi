@@ -9,7 +9,7 @@ import java.net.HttpURLConnection;
 import java.net.URL;
 
 public class Utils {
-
+//teste teste teste
     public static Bitmap getBitmapFromURL(String src) {
         try {
             URL url = new URL(src);
@@ -17,8 +17,7 @@ public class Utils {
             connection.setDoInput(true);
             connection.connect();
             InputStream input = connection.getInputStream();
-            Bitmap myBitmap = BitmapFactory.decodeStream(input);
-            return myBitmap;
+            return BitmapFactory.decodeStream(input);
         } catch (IOException e) {
 
             return null;
